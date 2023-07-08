@@ -73,7 +73,7 @@ alt="nodejs" width="40" height="40" /></a><a href='https://www.facebook.com/Z.Ah
             alt="nodejs" width="70" height="45" /></a><a href='https://www.instagram.com/zubair_ahmed_saad/?igshid=YmJhNjkzNzY%3D'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/800px-Instagram-Icon.png"
             alt="nodejs" width="40" height="40" />
                 <br>
-                <h2>Visit my Portfolio Website:<a href='https://zubair-ahmed-portfolio-website.netlify.app/'>Zubair Ahmed</a></h2>
+                <h2>Visit my Portfolio Website: <a href='https://zubair-ahmed-portfolio-website.netlify.app/'>Zubair Ahmed</a></h2>
     <br><br>
 <div>
         <img style="width:50%" src="https://github-readme-stats.vercel.app/api?username=zubair650&show_icons=true&theme=dark&locale=en" alt="zubair650" />
