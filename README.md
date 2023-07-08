@@ -70,7 +70,7 @@
     <h4>Phone: 01867855558 </h4>
    <b> <a href='https://www.linkedin.com/in/zubair-ahmed-6b3103179/?originalSubdomain=bd' style='text-decoration:none; color: white'><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"
 alt="nodejs" width="40" height="40" /></a> <a href='https://www.facebook.com/Z.Ahmed180' style='text-decoration:none; color: white'><img src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png"
-            alt="nodejs" width="60" height="40" /></a> <a href='https://www.instagram.com/zubair_ahmed_saad/?igshid=YmJhNjkzNzY%3D' style='text-decoration:none; color: white'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/800px-Instagram-Icon.png"
+            alt="nodejs" width="70" height="50" /></a> <a href='https://www.instagram.com/zubair_ahmed_saad/?igshid=YmJhNjkzNzY%3D' style='text-decoration:none; color: white'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/800px-Instagram-Icon.png"
             alt="nodejs" width="40" height="40" /></h4></b>
     <br><br>
 <div>
