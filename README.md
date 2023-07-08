@@ -66,7 +66,7 @@
                 src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40"
                 height="40" /> </a>
     </p><br>
-<div style="display: flex">
+<div style="display:flex">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=zubair650&show_icons=true&theme=dark&locale=en" alt="zubair650" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zubair650&theme=dark" alt="zubair650" /></div>  
 </body>
