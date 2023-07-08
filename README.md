@@ -66,9 +66,9 @@
                 src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40"
                 height="40" /> </a>
     </p><br>
-<div style="display:flex">
-    <div>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=zubair650&show_icons=true&theme=dark&locale=en" alt="zubair650" /><br>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zubair650&theme=dark" alt="zubair650" /></div>&nbsp;&nbsp;
-    <img align="right" style="width:40%; height:70%;" src="https://i.ibb.co/Q6LYzVh/imagine-an-office-environment-where-employees-work.jpg" alt="zubair650" /></div>
+<div style="display: flex">
+    <div>&nbsp;<img align="center" style="width:30%;"  src="https://github-readme-stats.vercel.app/api?username=zubair650&show_icons=true&theme=dark&locale=en" alt="zubair650" /><br><br>
+    <img align="center" style="width:30%;"  src="https://github-readme-streak-stats.herokuapp.com/?user=zubair650&theme=dark" alt="zubair650" /></div>&nbsp;&nbsp;
+    <img align="right" style="width:30%; height:70%;" src="https://i.ibb.co/Q6LYzVh/imagine-an-office-environment-where-employees-work.jpg" alt="zubair650" /></div>
 </body>
 
