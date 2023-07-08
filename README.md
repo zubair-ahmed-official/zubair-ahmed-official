@@ -67,10 +67,7 @@
                 height="40" /> </a>
     </p><br>
 <div style="display: flex">
-    <div><img align="center" src="https://github-readme-stats.vercel.app/api?username=zubair650&show_icons=true&theme=dark&locale=en" alt="zubair650" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zubair650&theme=dark" alt="zubair650" /></div>&nbsp;&nbsp;
-    <div>
-        <img align="right" style="width:30%; height:70%;" src="https://i.ibb.co/Q6LYzVh/imagine-an-office-environment-where-employees-work.jpg" alt="zubair650" />
-    </div></div>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=zubair650&show_icons=true&theme=dark&locale=en" alt="zubair650" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zubair650&theme=dark" alt="zubair650" /></div>  
 </body>
 
