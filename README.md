@@ -65,6 +65,11 @@
                 src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40"
                 height="40" /> </a>
     </p><br>
+    <h2> Contact Me:</h2>
+    <p>Email: zubair.ahmed03261@gmail.com</p>
+    <p>Phone: 01867855558 </p>
+    <a href='https://www.linkedin.com/in/zubair-ahmed-6b3103179/?originalSubdomain=bd' style='text-decoration:none; color: white'>LinkedIn</a>|<a href='https://www.facebook.com/Z.Ahmed180' style='text-decoration:none; color: white'>Facebook</a>|<a href='https://www.instagram.com/zubair_ahmed_saad/?igshid=YmJhNjkzNzY%3D' style='text-decoration:none; color: white'>Instagram</a>
+    <br>
 <div>
         <img style="width:50%" src="https://github-readme-stats.vercel.app/api?username=zubair650&show_icons=true&theme=dark&locale=en" alt="zubair650" />
         </div>
