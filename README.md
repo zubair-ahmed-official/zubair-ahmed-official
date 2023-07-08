@@ -23,7 +23,7 @@
             alt="nodejs" width="40" height="40" /> </a>&nbsp; <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="40" height="40" /> </a>&nbsp;<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
-            src="https://geekflare.com/wp-content/uploads/2023/01/expressjs.png"
+            src="https://i.ibb.co/wyYQdwC/express.jpg"
             alt="express" width="40" height="40" /> </a>&nbsp;<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /></a>&nbsp;<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
