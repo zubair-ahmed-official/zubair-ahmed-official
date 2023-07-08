@@ -38,9 +38,9 @@
             rel="noreferrer"> <img src="https://assets-us-01.kc-usercontent.com/4ec262a7-3d6c-008c-aa10-1e6ffc6c2e14/0e19ec0f-bc92-4011-9c1e-c37798453fb2/netlify_logo.png" alt="netlify"
                 width="40" height="40" /> </a><h3>Database Management Systems:</h3><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="40" height="40" /> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+            alt="mongodb" width="40" height="40" /> </a> &nbsp; <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" /> </a> <a href="https://www.oracle.com/" target="_blank"
+            alt="mysql" width="40" height="40" /> </a> &nbsp; <a href="https://www.oracle.com/" target="_blank"
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
             alt="oracle" width="40" height="40" /> </a><h3>Graphics Skills</h3> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
