@@ -23,7 +23,7 @@
             alt="nodejs" width="40" height="40" /> </a>&nbsp; <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="40" height="40" /> </a>&nbsp;<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
-            src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg](https://www.w3jar.com/wp-content/uploads/2019/05/express-js-tutorial.png)"
+            src="[[https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg](https://www.w3jar.com/wp-content/uploads/2019/05/express-js-tutorial.png)](https://geekflare.com/wp-content/uploads/2023/01/expressjs.png)"
             alt="express" width="40" height="40" /> </a>&nbsp;<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /></a>&nbsp;<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
@@ -33,8 +33,7 @@
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>&nbsp;<a href="https://postman.com" target="_blank"
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"
             width="40" height="40" /> </a>&nbsp;<a href="https://vercel.com/" target="_blank"
-            rel="noreferrer"> <img src="[https://www.svgrepo.com/show/327408/logo-vercel.svg](https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png)" alt="vercel"
-                width="40" height="40" /> </a>&nbsp;<a href="https://netlify.com/" target="_blank"
+            rel="noreferrer"> <img src="[[[https://www.svgrepo.com/show/327408/logo-vercel.svg](https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png)](https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png)](https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png)" alt="vercel"
             rel="noreferrer"> <img src="https://assets-us-01.kc-usercontent.com/4ec262a7-3d6c-008c-aa10-1e6ffc6c2e14/0e19ec0f-bc92-4011-9c1e-c37798453fb2/netlify_logo.png" alt="netlify"
                 width="40" height="40" /> </a><h3>Database Management Systems:</h3><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
