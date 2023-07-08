@@ -68,7 +68,10 @@
     <h2> Contact Me:</h2>
     <h4>Email: zubair.ahmed03261@gmail.com</h4>
     <h4>Phone: 01867855558 </h4>
-   <b> <a href='https://www.linkedin.com/in/zubair-ahmed-6b3103179/?originalSubdomain=bd' style='text-decoration:none; color: white'>LinkedIn</a> | <a href='https://www.facebook.com/Z.Ahmed180' style='text-decoration:none; color: white'>Facebook</a> | <a href='https://www.instagram.com/zubair_ahmed_saad/?igshid=YmJhNjkzNzY%3D' style='text-decoration:none; color: white'>Instagram</h4></b>
+   <b> <a href='https://www.linkedin.com/in/zubair-ahmed-6b3103179/?originalSubdomain=bd' style='text-decoration:none; color: white'><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"
+alt="nodejs" width="40" height="40" /></a> | <a href='https://www.facebook.com/Z.Ahmed180' style='text-decoration:none; color: white'><img src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png"
+            alt="nodejs" width="40" height="40" /></a> | <a href='https://www.instagram.com/zubair_ahmed_saad/?igshid=YmJhNjkzNzY%3D' style='text-decoration:none; color: white'><img src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266_640.jpg"
+            alt="nodejs" width="40" height="40" /></h4></b>
     <br><br>
 <div>
         <img style="width:50%" src="https://github-readme-stats.vercel.app/api?username=zubair650&show_icons=true&theme=dark&locale=en" alt="zubair650" />
