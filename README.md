@@ -1,8 +1,8 @@
 
 
-<body style="font-family: Lucida Console;">
-    <h1 style="font-family: Lucida Console;" align="center">This is Zubair Ahmed ⚡</h1>
-    <h3 style="font-family: Lucida Console;" align="center">A Full-Stack Developer with an excellent level of proficiency.</h3>
+<body>
+    <h1 align="center">This is Zubair Ahmed ⚡</h1>
+    <h3 align="center">A Full-Stack Developer with an excellent level of proficiency.</h3>
     <p align="left">
     </p>
     <p align="left">
@@ -67,5 +67,7 @@
                 height="40" /> </a>
     </p>
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zubair650&show_icons=true&theme=dark&locale=en" alt="zubair650" /></p>
+&nbsp;&nbsp;
+<img align="center" style="width:30%; height:70%" src="https://i.ibb.co/Q6LYzVh/imagine-an-office-environment-where-employees-work.jpg" alt="zubair650" /></p>
 </body>
 
