@@ -1,7 +1,6 @@
 <h1 align="center">This is Zubair Ahmed ⚡</h1>
 <h3 align="center">A Full-Stack Developer with an excellent level of proficiency.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
