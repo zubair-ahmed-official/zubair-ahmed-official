@@ -42,7 +42,7 @@
             alt="mysql" width="40" height="40" /> </a>&nbsp;<a href="https://www.oracle.com/" target="_blank"
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-            alt="oracle" width="40" height="40" /> </a><h3>Graphics Skills</h3> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
+            alt="oracle" width="40" height="40" /> </a><h3>Graphics Skills:</h3> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>&nbsp;<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
             width="40" height="40" /> </a>&nbsp;<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
