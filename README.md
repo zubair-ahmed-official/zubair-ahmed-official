@@ -1,8 +1,8 @@
 
 
 <body style="font-family: Lucida Console;">
-    <h1 align="center">This is Zubair Ahmed ⚡</h1>
-    <h3 align="center">A Full-Stack Developer with an excellent level of proficiency.</h3>
+    <h1 style="font-family: Lucida Console;" align="center">This is Zubair Ahmed ⚡</h1>
+    <h3 style="font-family: Lucida Console;" align="center">A Full-Stack Developer with an excellent level of proficiency.</h3>
     <p align="left">
     </p>
     <p align="left">
