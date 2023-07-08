@@ -66,13 +66,12 @@
                 src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40"
                 height="40" /> </a>
     </p><br>
-<div style="display:flex">
-    <div>
-        <img style="width:45%" src="https://github-readme-stats.vercel.app/api?username=zubair650&show_icons=true&theme=dark&locale=en" alt="zubair650" />
+<div>
+        <img style="width:50%" src="https://github-readme-stats.vercel.app/api?username=zubair650&show_icons=true&theme=dark&locale=en" alt="zubair650" />
         </div>
 <div>
-    <img style="width:45%" src="https://github-readme-streak-stats.herokuapp.com/?user=zubair650&theme=dark" alt="zubair650" />
+    <img style="width:50%" src="https://github-readme-streak-stats.herokuapp.com/?user=zubair650&theme=dark" alt="zubair650" />
 </div>
-</div>  
+ 
 </body>
 
