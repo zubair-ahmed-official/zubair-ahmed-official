@@ -19,10 +19,14 @@
             height="40" /> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a>&nbsp;<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png"
+            alt="typescript" width="40" height="40" /> </a>&nbsp;<a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
             alt="nodejs" width="40" height="40" /> </a>&nbsp; <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" /> </a>&nbsp;<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
+            alt="react" width="40" height="40" /> </a>&nbsp; <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+        <img src="https://w7.pngwing.com/pngs/413/852/png-transparent-redux-react-logo-javascript-dq-purple-violet-text-thumbnail.png"
+            alt="redux" width="40" height="40" /> </a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
             src="https://i.ibb.co/wyYQdwC/express.jpg"
             alt="express" width="40" height="40" /> </a>&nbsp;<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /></a>&nbsp;<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img
