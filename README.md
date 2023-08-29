@@ -77,8 +77,8 @@ alt="nodejs" width="40" height="40" /></a><a href='https://www.facebook.com/Z.Ah
             alt="facebook" width="70" height="45" /></a><a href='https://www.instagram.com/zubair_ahmed_saad/?igshid=YmJhNjkzNzY%3D'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/800px-Instagram-Icon.png"
             alt="instagram" width="40" height="40" />
                 <br>
-                <h2>🌟 My Portfolio Website: <a href='https://zubair-ahmed-portfolio-website.netlify.app/'>zubair-ahmed-portfolio-website.netlify.app</a></h2>
-               <a href='https://www.fiverr.com/zubairahmed_985'><img src='https://image.pngaaa.com/695/2410695-middle.png' alt="fiverr" width="40" height="40"> </a>
+                <h4>🌟 My Portfolio Website: <a href='https://zubair-ahmed-portfolio-website.netlify.app/'> zubair-ahmed-portfolio-website.netlify.app</a></h4>
+                <h4>🌟 My Fiver Profile: <a href='https://www.fiverr.com/zubairahmed_985'> fiverr.com/zubairahmed_985 </a> </h4>
     <br><br>
 <div>
         <img style="width:50%" src="https://github-readme-stats.vercel.app/api?username=zubair650&show_icons=true&theme=dark&locale=en" alt="zubair650" />
