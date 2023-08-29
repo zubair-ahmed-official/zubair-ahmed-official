@@ -78,7 +78,7 @@ alt="nodejs" width="40" height="40" /></a><a href='https://www.facebook.com/Z.Ah
             alt="instagram" width="40" height="40" />
                 <br>
                 <h3>🌟 My Portfolio Website: <a href='https://zubair-ahmed-portfolio-website.netlify.app/'> zubair-ahmed-portfolio-website.netlify.app</a></h3>
-                <h3>✅ My Fiver Account: <a href='https://www.fiverr.com/zubairahmed_985'> fiverr.com/zubairahmed_985 </a> </h3>
+                <h3>✅ My Fiverr Account: <a href='https://www.fiverr.com/zubairahmed_985'> fiverr.com/zubairahmed_985 </a> </h3>
     <br><br>
 <div>
         <img style="width:50%" src="https://github-readme-stats.vercel.app/api?username=zubair650&show_icons=true&theme=dark&locale=en" alt="zubair650" />
