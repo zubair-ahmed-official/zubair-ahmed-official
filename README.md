@@ -74,10 +74,11 @@
     <h4>📞 Phone: 01867855558 </h4>
     <a href='https://www.linkedin.com/in/zubair-ahmed-6b3103179/?originalSubdomain=bd'><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"
 alt="nodejs" width="40" height="40" /></a><a href='https://www.facebook.com/Z.Ahmed180'><img src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png"
-            alt="nodejs" width="70" height="45" /></a><a href='https://www.instagram.com/zubair_ahmed_saad/?igshid=YmJhNjkzNzY%3D'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/800px-Instagram-Icon.png"
-            alt="nodejs" width="40" height="40" />
+            alt="facebook" width="70" height="45" /></a><a href='https://www.instagram.com/zubair_ahmed_saad/?igshid=YmJhNjkzNzY%3D'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/800px-Instagram-Icon.png"
+            alt="instagram" width="40" height="40" />
                 <br>
-                <h2>🌟 My Portfolio Website: <a href='https://zubair-ahmed-portfolio-website.netlify.app/'>Zubair Ahmed</a></h2>
+                <h2>🌟 My Portfolio Website: <a href='https://zubair-ahmed-portfolio-website.netlify.app/'>zubair-ahmed-portfolio-website.netlify.app</a></h2>
+                <h2><img src='https://e7.pngegg.com/pngimages/182/803/png-clipart-fiverr-logo-online-marketplace-graphic-design-design-text-logo.png' alt="fiverr" width="40" height="40"> My Fiver Profile: <a href='https://www.fiverr.com/zubairahmed_985'>fiverr.com/zubairahmed_985</a></h2>
     <br><br>
 <div>
         <img style="width:50%" src="https://github-readme-stats.vercel.app/api?username=zubair650&show_icons=true&theme=dark&locale=en" alt="zubair650" />
