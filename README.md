@@ -38,7 +38,7 @@
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"
             width="40" height="40" /> </a>&nbsp;<a href="https://vercel.com/" target="_blank"
             rel="noreferrer"> <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="vercel"
-            rel="vercel" width="40" height="40" > <img src="https://assets-us-01.kc-usercontent.com/4ec262a7-3d6c-008c-aa10-1e6ffc6c2e14/0e19ec0f-bc92-4011-9c1e-c37798453fb2/netlify_logo.png" alt="netlify"
+            rel="vercel" width="40" height="40" > <img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" alt="netlify"
                 width="40" height="40" /> </a><h3>Database Management Systems:</h3><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
             alt="mongodb" width="40" height="40" /> </a>&nbsp;<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
