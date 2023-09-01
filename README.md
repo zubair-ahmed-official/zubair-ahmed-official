@@ -31,7 +31,7 @@
             alt="redux" width="40" height="40" /> </a>&nbsp;<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
             <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png"
             alt="express" width="40" height="40" />
-            </a>&nbsp;<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
+            </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /></a>&nbsp;<a href="https://www.php.net" target="_blank" rel="noreferrer">               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
             width="40" height="40" /> </a>&nbsp;<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
