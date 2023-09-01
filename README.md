@@ -23,12 +23,12 @@
             alt="typescript" width="40" height="40" /> </a>&nbsp;<a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
             alt="nodejs" width="40" height="40" /> </a>&nbsp; <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
             alt="react" width="40" height="40" /> </a>&nbsp; <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-        <img src="https://img1.pnghut.com/25/10/21/H4N8PREpzt/nodejs-symbol-web-application-redux-state-management.jpg"
-            alt="redux" width="40" height="40" /> </a>&nbsp;<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
-            src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png"
-            alt="express" width="40" height="40" /> </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
+            alt="redux" width="40" height="40" /> </a>&nbsp;<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+            <i class="devicon-express-original"></i>
+          </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /></a>&nbsp;<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
             width="40" height="40" /> </a>&nbsp;<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img
