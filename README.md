@@ -10,7 +10,7 @@
     <h3>Web Development: </h3>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a>&nbsp;
+            alt="html5" width="40" height="40" /> </a>
             <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"
             alt="css3" width="40" height="40" /> </a>&nbsp;
@@ -25,7 +25,7 @@
             alt="typescript" width="40" height="40" /> </a>&nbsp;<a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"
             alt="nodejs" width="40" height="40" /> </a>&nbsp; <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
             alt="react" width="40" height="40" /> </a>&nbsp; <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
             alt="redux" width="40" height="40" /> </a>&nbsp;<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
