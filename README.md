@@ -15,7 +15,7 @@
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"
             alt="css3" width="40" height="40" /> </a>&nbsp;
             <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
-           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
             alt="bootstrap" width="40" height="40" /> </a>&nbsp;<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40"
             height="40" /> </a>&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
@@ -55,7 +55,14 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
             alt="photoshop" width="40" height="40" /> </a>&nbsp;<a href="https://www.adobe.com/products/xd.html" target="_blank"
             rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40"
-                height="40" /> </a><h3>Other Languages: </h3>
+                height="40" /> </a> 
+        &nbsp;<a href="https://www.adobe.com/products/xd.html" target="_blank"
+            rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40"
+                height="40" /> </a>
+        &nbsp;<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
+            alt="canva" width="40" height="40" /> </a>
+        <h3>Other Languages: </h3>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
             height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
