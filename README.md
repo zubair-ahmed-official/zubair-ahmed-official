@@ -56,9 +56,6 @@
             alt="photoshop" width="40" height="40" /> </a>&nbsp;<a href="https://www.adobe.com/products/xd.html" target="_blank"
             rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40"
                 height="40" /> </a> 
-        &nbsp;<a href="https://www.adobe.com/products/xd.html" target="_blank"
-            rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40"
-                height="40" /> </a>
         &nbsp;<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
             alt="canva" width="40" height="40" /> </a>
