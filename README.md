@@ -25,7 +25,7 @@
             alt="nodejs" width="40" height="40" /> </a>&nbsp; <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="40" height="40" /> </a>&nbsp; <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-        <img src="https://w7.pngwing.com/pngs/413/852/png-transparent-redux-react-logo-javascript-dq-purple-violet-text-thumbnail.png"
+        <img src="https://img1.pnghut.com/25/10/21/H4N8PREpzt/nodejs-symbol-web-application-redux-state-management.jpg"
             alt="redux" width="40" height="40" /> </a>&nbsp;<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
             src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png"
             alt="express" width="40" height="40" /> </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
