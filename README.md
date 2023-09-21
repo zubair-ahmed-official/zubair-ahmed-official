@@ -1,6 +1,6 @@
 
 
-<body style='color: white'>
+<body>
     <h1 align="center">This is Zubair Ahmed ⚡</h1>
     <h3 align="center">A Full-Stack Developer with an excellent level of proficiency.</h3>
     <p align="left">
@@ -78,10 +78,10 @@
                 src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40"
                 height="40" /> </a>
     </p><br>
-    <h2>Hire Me: </h2>h2>
+    <h2>Hire Me: </h2>
     <h3> <a href='https://www.fiverr.com/zubairahmed_985'> ✅ Fiverr </a> | 
     <a href='https://www.upwork.com/freelancers/~017703aaf147f1ce56'>  ✅ Upwork </a> </h3>
-    <h5>🌟 10% Discount for the Repeat Clients <h5>
+    <h4>🌟 10% Discount for the Repeat Clients <h4>
     <h2> Contact Me:</h2>
     <h3>📧 Email: zubair.ahmed03261@gmail.com</h3>
     <h3>📞 Phone: 01867855558 </h3>
