@@ -1,6 +1,6 @@
 
 
-<body>
+<body style='color: white'>
     <h1 align="center">This is Zubair Ahmed ⚡</h1>
     <h3 align="center">A Full-Stack Developer with an excellent level of proficiency.</h3>
     <p align="left">
@@ -78,6 +78,10 @@
                 src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40"
                 height="40" /> </a>
     </p><br>
+    <h2>Hire Me: </h2>h2>
+    <h3> <a href='https://www.fiverr.com/zubairahmed_985'> ✅ Fiverr </a> | 
+    <a href='https://www.upwork.com/freelancers/~017703aaf147f1ce56'>  ✅ Upwork </a> </h3>
+    <h5>🌟 10% Discount for the Repeat Clients <h5>
     <h2> Contact Me:</h2>
     <h3>📧 Email: zubair.ahmed03261@gmail.com</h3>
     <h3>📞 Phone: 01867855558 </h3>
@@ -86,8 +90,7 @@ alt="nodejs" width="40" height="40" /></a><a href='https://www.facebook.com/Z.Ah
             alt="facebook" width="70" height="45" /></a><a href='https://www.instagram.com/zubair_ahmed_saad/?igshid=YmJhNjkzNzY%3D'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/800px-Instagram-Icon.png"
             alt="instagram" width="40" height="40" />
                 <br>
-                <h3>🌟 My Portfolio Website: <a href='https://zubair-ahmed-portfolio-website.netlify.app/'> zubair-ahmed-portfolio-website.netlify.app</a></h3>
-                <h3>✅ My Fiverr Account: <a href='https://www.fiverr.com/zubairahmed_985'> fiverr.com/zubairahmed_985 </a> </h3>
+                <h3> <a href='https://zubair-ahmed-portfolio-website.netlify.app/'> 🎯 My Portfolio Website </a></h3>
     <br><br>
 <div>
         <img style="width:50%" src="https://github-readme-stats.vercel.app/api?username=zubair650&show_icons=true&theme=dark&locale=en" alt="zubair650" />
