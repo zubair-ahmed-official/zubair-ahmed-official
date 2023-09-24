@@ -79,7 +79,7 @@
                 height="40" /> </a>
     </p><br>
     <h2>Hire Me: </h2>
-    <p style='font-size: 350px'> <a href='https://www.fiverr.com/zubairahmed_985'> 📌 Fiverr </a> | 
+    <p style='font-size: 100'> <a href='https://www.fiverr.com/zubairahmed_985'> 📌 Fiverr </a> | 
     <a href='https://www.upwork.com/freelancers/~017703aaf147f1ce56'>  📌 Upwork </a> |
     <a href='https://www.freelancer.com/u/zubair985'>  📌 Freelancer.com </a> 
     </p>
