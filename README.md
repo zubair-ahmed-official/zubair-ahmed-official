@@ -83,12 +83,12 @@
     <a href='https://www.upwork.com/freelancers/~017703aaf147f1ce56'> ⭐ Upwork </a> | 
     <a href='https://www.freelancer.com/u/zubair985'> ⭐ Freelancer.com </a> 
     </h3>
-    <h4>🌟 10% Discount for the Repeat Clients. </h4>
-    <h4>💯 Feel free to order a standard and professional website development. </h4>
+    <h3>🎯 10% Discount for the Repeat Clients. </h3>
+    <h3>💯 Feel free to order a standard and professional website development. </h3>
     <h2> Contact Me:</h2>
-    <h4>📧 Email: zubair.ahmed03261@gmail.com, z.ahmed.web.dev@gmail.com</h4>
-    <h4>📞 Phone: 01867855558 </h4>
-    <h3> <a href='https://zubair-ahmed-portfolio-website.netlify.app/'> 🎯 My Portfolio Website </a></h3>
+    <h3>📧 Email: zubair.ahmed03261@gmail.com, z.ahmed.web.dev@gmail.com</h3>
+    <h3>📞 Phone: 01867855558 </h3>
+    <h3> <a href='https://zubair-ahmed-portfolio-website.netlify.app/'> 💎 My Portfolio Website </a></h3>
     <br>
     &nbsp;&nbsp; <a href='https://www.linkedin.com/in/zubair-ahmed-6b3103179/?originalSubdomain=bd'><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"
 alt="nodejs" width="40" height="40" /></a><a href='https://www.facebook.com/Z.Ahmed180'><img src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png"
