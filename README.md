@@ -82,7 +82,7 @@
     <p style='font-size: 350px'> <a href='https://www.fiverr.com/zubairahmed_985'> 📌 Fiverr </a> | 
     <a href='https://www.upwork.com/freelancers/~017703aaf147f1ce56'>  📌 Upwork </a> |
     <a href='https://www.freelancer.com/u/zubair985'>  📌 Freelancer.com </a> 
-    <p>
+    </p>
     <h3>🌟 10% Discount for the Repeat Clients. </h3>
     <h3>💯 Feel free to order a standard and professional website development. </h3>
     <h2> Contact Me:</h2>
