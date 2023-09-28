@@ -1,4 +1,4 @@
-<div align="center"><h2> <samp> <b>This is Zubair Ahmed ⚡</b></samp></h2></div>
+<div align="center"><h1> <samp> <b>This is Zubair Ahmed ⚡</b></samp></h1></div>
   <p align="center"><code>A Full-Stack Developer with an excellent level of proficiency</code></p>
    <p align="center"><code><a href='https://zubair-ahmed-portfolio-website.netlify.app/'>My Portfolio Website 💎</a></code></p>
     <div align="left">
