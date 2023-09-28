@@ -97,11 +97,11 @@
     <a href='https://www.upwork.com/freelancers/~017703aaf147f1ce56'> ⭐ Upwork </a> | 
     <a href='https://www.freelancer.com/u/zubair985'> ⭐ Freelancer.com </a> 
     </h3> </samp>
-    <samp>  <p>🎯 10% Discount for the Repeat Clients. </p>
-    <p>💯 Feel free to order a standard and professional website development. </p>
+    <samp>  <b>🎯 10% Discount for the Repeat Clients. </b> <br>
+    <b>💯 Feel free to order a standard and professional website development. </b>
     <h2> Contact Me:</h2>
-    <p>📧 Email: zubair.ahmed03261@gmail.com, z.ahmed.web.dev@gmail.com</p>
-    <p>📞 Phone: +8801867855558 </p> 
+    <b>📧 Email: zubair.ahmed03261@gmail.com, z.ahmed.web.dev@gmail.com</b> <br>
+    <b>📞 Phone: +8801867855558 </b> 
     <br>
        <a href='https://www.linkedin.com/in/zubair-ahmed-6b3103179/?originalSubdomain=bd'><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"
 alt="nodejs" width="40" height="40" /></a><a href='https://www.facebook.com/Z.Ahmed180'><img src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png"
