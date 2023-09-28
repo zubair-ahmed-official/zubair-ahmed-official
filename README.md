@@ -4,75 +4,73 @@
     <div align="left">
     <samp><h2>Skills: </h2> </samp>
     <samp><h3>Web Development:</h3> </samp>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a>
-            <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
+            alt="html5" width="40" height="40" /></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"
-            alt="css3" width="40" height="40" /> </a>
-            <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
+            alt="css3" width="40" height="40" /></a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
-            alt="bootstrap" width="40" height="40" /> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
+            alt="bootstrap" width="40" height="40" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40"
-            height="40" /> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
+            height="40" /> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+            alt="javascript" width="40" height="40" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-            alt="typescript" width="40" height="40" /> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer">
+            alt="typescript" width="40" height="40" /></a><a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg"
-            alt="nodejs" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+            alt="nodejs" width="40" height="40" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-            alt="react" width="40" height="40" /> </a><a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+            alt="react" width="40" height="40" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
-            alt="redux" width="40" height="40" /> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+            alt="redux" width="40" height="40" /></a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
             <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png"
             alt="express" width="40" height="40" />
             </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /></a> <a href="https://www.php.net" target="_blank" rel="noreferrer">               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
-            width="40" height="40" /> </a><a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /></a> <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
+            width="40" height="40" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
-            alt="laravel" width="40" height="40" /> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
+            alt="laravel" width="40" height="40" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git" width="40" height="40" /> </a> <a href="https://postman.com" target="_blank"
-        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"
-            width="40" height="40" /> </a> <a href="https://vercel.com/" target="_blank"
-            rel="noreferrer"> <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="vercel"
+        rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"
+            width="40" height="40" /></a><a href="https://vercel.com/" target="_blank"
+            rel="noreferrer"><img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="vercel"
             rel="vercel" width="40" height="40" ></a> 
              <a href="https://www.netlify.com/" target="_blank"
-            rel="noreferrer"> <img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" alt="netlify"
-                width="40" height="40" /> </a>
-          <samp><h3>Database Management Systems:</h3>  </samp><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
+            rel="noreferrer"><img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" alt="netlify"
+                width="40" height="40" /></a>
+          <samp><h3>Database Management Systems:</h3></samp><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+            alt="mongodb" width="40" height="40" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" /> </a> <a href="https://www.oracle.com/" target="_blank"
-        rel="noreferrer"> <img
+            alt="mysql" width="40" height="40" /></a><a href="https://www.oracle.com/" target="_blank"
+        rel="noreferrer"><img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-            alt="oracle" width="40" height="40" /> </a><samp> <h3>Graphics Skills:</h3></samp> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img
+            alt="oracle" width="40" height="40" /></a><samp> <h3>Graphics Skills:</h3></samp><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img
+            src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /></a><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img
             src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
-            width="40" height="40" /> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
+            width="40" height="40" /></a><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-            alt="photoshop" width="40" height="40" /> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"
+            alt="photoshop" width="40" height="40" /></a><a href="https://www.adobe.com/products/xd.html" target="_blank"
             rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40"
                 height="40" /> </a> 
-         <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img
+         <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
-            alt="canva" width="40" height="40" /> </a>
-          <samp><h3>Other Languages:</h3>  </samp>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
+            alt="canva" width="40" height="40" /></a>
+          <samp><h3>Other Languages:</h3></samp>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
-            height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
+            height="40" /></a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-            alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cs/" target="_blank"
-        rel="noreferrer"> <img
+            alt="cplusplus" width="40" height="40" /></a><a href="https://www.w3schools.com/cs/" target="_blank"
+        rel="noreferrer"><img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-            alt="csharp" width="40" height="40" /> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
+            alt="csharp" width="40" height="40" /></a><a href="https://www.java.com" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
-            width="40" height="40" /> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+            width="40" height="40" /></a><a href="https://www.python.org" target="_blank" rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-                alt="python" width="40" height="40" /> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img
+                alt="python" width="40" height="40" /></a><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img
                 src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40"
-                height="40" /> </a>
+                height="40" /></a>
     </div><br>
       <samp><h2>Hire Me:</h2> 
     <h3> <a href='https://www.fiverr.com/zubairahmed_985'> ⭐ Fiverr </a> | 
