@@ -35,7 +35,7 @@
       <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png"
             alt="express" width="40" height="40" />
          </a>
-       <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
+       <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img
             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /></a> 
        <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
             width="40" height="40" /></a>
@@ -43,7 +43,7 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
             alt="laravel" width="40" height="40" /></a>
        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git" width="40" height="40" /> </a> <a href="https://postman.com" target="_blank"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git" width="40" height="40" /></a> <a href="https://postman.com" target="_blank"
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"
             width="40" height="40" /></a>
        <a href="https://vercel.com/" target="_blank"
