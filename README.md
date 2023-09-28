@@ -1,5 +1,5 @@
 <body>
-    <samp><h1 align="center">This is Zubair Ahmed ⚡</h1></samp>
+    <samp><p align="center">This is Zubair Ahmed ⚡</p></samp>
     <samp><h3 align="center">A Full-Stack Developer with an excellent level of proficiency.</h3> </samp>
     <div align="left">
     <samp>Skills:</samp>
