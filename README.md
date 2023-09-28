@@ -1,10 +1,10 @@
-  ## This is Zubair Ahmed ⚡
-  <p align="center">A Full-Stack Developer with an excellent level of proficiency</p>
-   <p align="center"><a href='https://zubair-ahmed-portfolio-website.netlify.app/'>My Portfolio Website 💎</a></p>
+<p align="center"> <code> <b>This is Zubair Ahmed ⚡ </b></code></p>
+  <p align="center"><code>A Full-Stack Developer with an excellent level of proficiency</code></p>
+   <p align="center"><code><a href='https://zubair-ahmed-portfolio-website.netlify.app/'>My Portfolio Website 💎</a></code></p>
     <div align="left">
     <h2>Skills:</h2> 
-    <h3>Web Development:</h3> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img
+    <code>Web Development:</code> <br><br>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"
             alt="html5" width="40" height="40" /></a>
        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
@@ -51,15 +51,17 @@
             rel="vercel" width="40" height="40" ></a> 
              <a href="https://www.netlify.com/" target="_blank"
             rel="noreferrer"> <img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" alt="netlify"
-                width="40" height="40" /></a>
-          <h3>Database Management Systems:</h3><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
+                width="40" height="40" /></a> <br><br>
+          <code>Database Management Systems:</code><br><br>
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
             alt="mongodb" width="40" height="40" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> &nbsp; <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
             alt="mysql" width="40" height="40" /></a> <a href="https://www.oracle.com/" target="_blank"
         rel="noreferrer"> &nbsp; <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-            alt="oracle" width="40" height="40" /></a> <h3>Graphics Skills:</h3><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
+            alt="oracle" width="40" height="40" /></a> <br><br>
+        <code>Graphics Skills:</code><br><br><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /></a><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img
             src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
             width="40" height="40" /></a>
@@ -71,8 +73,8 @@
                 height="40" /></a> 
          <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
-            alt="canva" width="40" height="40" /></a>
-          <h3>Other Languages:</h3>
+            alt="canva" width="40" height="40" /></a><br><br>
+          <code>Other Languages:</code><br><br>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
             height="40" /></a>
@@ -90,7 +92,7 @@
        <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img
                 src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40"
                 height="40" /></a>
-    </div><br>
+    </div><br><br>
       <h2>Hire Me:</h2> 
     <h3> <a href='https://www.fiverr.com/zubairahmed_985'> ⭐ Fiverr </a> | 
     <a href='https://www.upwork.com/freelancers/~017703aaf147f1ce56'> ⭐ Upwork </a> | 
