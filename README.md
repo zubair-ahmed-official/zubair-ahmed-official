@@ -41,7 +41,7 @@
             width="40" height="40" /></a>
        <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
-            alt="laravel" width="40" height="40" /></a> 
+            alt="laravel" width="40" height="40" /></a>
        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="git" width="40" height="40" /> </a> <a href="https://postman.com" target="_blank"
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"
