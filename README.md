@@ -52,14 +52,14 @@
              <a href="https://www.netlify.com/" target="_blank"
             rel="noreferrer"> <img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" alt="netlify"
                 width="40" height="40" /></a>
-          <samp><h3>Database Management Systems:</h3></samp><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
+          <samp><h3>Database Management Systems:</h3></samp><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> &nbsp; <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="40" height="40" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  <img
+            alt="mongodb" width="40" height="40" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> &nbsp; <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
             alt="mysql" width="40" height="40" /></a> <a href="https://www.oracle.com/" target="_blank"
-        rel="noreferrer">  <img
+        rel="noreferrer"> &nbsp; <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-            alt="oracle" width="40" height="40" /></a><samp> <h3>Graphics Skills:</h3></samp><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img
+            alt="oracle" width="40" height="40" /></a><samp> <h3>Graphics Skills:</h3></samp><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /></a><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img
             src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
             width="40" height="40" /></a>
