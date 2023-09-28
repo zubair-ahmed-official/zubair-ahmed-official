@@ -1,4 +1,4 @@
-  ## <p align="center">This is Zubair Ahmed ⚡</p>
+  ## This is Zubair Ahmed ⚡
   <p align="center">A Full-Stack Developer with an excellent level of proficiency</p>
    <p align="center"><a href='https://zubair-ahmed-portfolio-website.netlify.app/'>My Portfolio Website 💎</a></p>
     <div align="left">
