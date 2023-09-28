@@ -1,6 +1,5 @@
-<body>
-  <p align="center"><code><b>This is Zubair Ahmed ⚡ </b></code></p>
-    <p align="center">A Full-Stack Developer with an excellent level of proficiency</p>
+  ## <p align="center">This is Zubair Ahmed ⚡</p>
+  <p align="center">A Full-Stack Developer with an excellent level of proficiency</p>
    <p align="center"><a href='https://zubair-ahmed-portfolio-website.netlify.app/'>My Portfolio Website 💎</a></p>
     <div align="left">
     <h2>Skills:</h2> 
@@ -115,6 +114,5 @@ alt="nodejs" width="40" height="40" /></a><a href='https://www.facebook.com/Z.Ah
 <div>
     <img style="width:50%" src="https://github-readme-streak-stats.herokuapp.com/?user=zubair650&theme=dark" alt="zubair650" />
 </div>
- 
-</body>
+
 
