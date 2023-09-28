@@ -2,7 +2,7 @@
     <samp><h1 align="center">This is Zubair Ahmed ⚡</h1></samp>
     <samp><h3 align="center">A Full-Stack Developer with an excellent level of proficiency.</h3> </samp>
     <div align="left">
-    <samp><h2>Skills:</h2></samp>
+    <samp>Skills:</samp>
     <samp><h3>Web Development: </h3> </samp>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"
