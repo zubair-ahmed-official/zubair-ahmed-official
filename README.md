@@ -1,8 +1,8 @@
 <body>
-   <p > <samp><h2 align="center">This is Zubair Ahmed ⚡</h2></samp></p>
+   <h2 align="center"><samp></b>This is Zubair Ahmed ⚡</samp></h2>
     <samp><h3 align="center">A Full-Stack Developer with an excellent level of proficiency.</h3> </samp>
     <div align="left">
-    <samp>Skills:</samp>
+    <samp><h2>Skills: </h2> </samp>
     <samp><h3>Web Development: </h3> </samp>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"
@@ -40,14 +40,14 @@
             &nbsp;<a href="https://www.netlify.com/" target="_blank"
             rel="noreferrer"> <img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" alt="netlify"
                 width="40" height="40" /> </a>
-        <h3>Database Management Systems:</h3><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
+          <samp><h3>Database Management Systems:</h3>  </samp><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
             alt="mongodb" width="40" height="40" /> </a>&nbsp;<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
             alt="mysql" width="40" height="40" /> </a>&nbsp;<a href="https://www.oracle.com/" target="_blank"
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-            alt="oracle" width="40" height="40" /> </a><h3>Graphics Skills:</h3> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
+            alt="oracle" width="40" height="40" /> </a><samp> <h3>Graphics Skills:</h3></samp> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>&nbsp;<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
             width="40" height="40" /> </a>&nbsp;<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img
@@ -58,7 +58,7 @@
         &nbsp;<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
             alt="canva" width="40" height="40" /> </a>
-        <h3>Other Languages: </h3>
+          <samp><h3>Other Languages: </h3>  </samp>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
             height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
@@ -74,17 +74,17 @@
                 src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40"
                 height="40" /> </a>
     </div><br>
-    <h2>Hire Me: </h2>
+      <samp><h2>Hire Me: </h2> 
     <h3> <a href='https://www.fiverr.com/zubairahmed_985'> ⭐ Fiverr </a> | 
     <a href='https://www.upwork.com/freelancers/~017703aaf147f1ce56'> ⭐ Upwork </a> | 
     <a href='https://www.freelancer.com/u/zubair985'> ⭐ Freelancer.com </a> 
-    </h3>
-    <h3>🎯 10% Discount for the Repeat Clients. </h3>
+    </h3> </samp>
+    <samp>  <h3>🎯 10% Discount for the Repeat Clients. </h3>
     <h3>💯 Feel free to order a standard and professional website development. </h3>
     <h2> Contact Me:</h2>
     <h3>📧 Email: zubair.ahmed03261@gmail.com, z.ahmed.web.dev@gmail.com</h3>
-    <h3>📞 Phone: 01867855558 </h3>
-    <h3> <a href='https://zubair-ahmed-portfolio-website.netlify.app/'> 💎 My Portfolio Website </a></h3>
+    <h3>📞 Phone: +8801867855558 </h3> 
+    <h3> <a href='https://zubair-ahmed-portfolio-website.netlify.app/'> 💎 My Portfolio Website </a></h3> </samp>
     <br>
     &nbsp;&nbsp; <a href='https://www.linkedin.com/in/zubair-ahmed-6b3103179/?originalSubdomain=bd'><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"
 alt="nodejs" width="40" height="40" /></a><a href='https://www.facebook.com/Z.Ahmed180'><img src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png"
