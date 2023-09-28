@@ -36,7 +36,7 @@
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"
             width="40" height="40" /> </a> <a href="https://vercel.com/" target="_blank"
             rel="noreferrer"> <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="vercel"
-            rel="vercel" width="40" height="40" ></a>
+            rel="vercel" width="40" height="40" ></a> 
              <a href="https://www.netlify.com/" target="_blank"
             rel="noreferrer"> <img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" alt="netlify"
                 width="40" height="40" /> </a>
