@@ -3,7 +3,7 @@
     <samp><h3 align="center">A Full-Stack Developer with an excellent level of proficiency.</h3> </samp>
     <div align="left">
     <samp><h2>Skills: </h2> </samp>
-    <samp><h3>Web Development: </h3> </samp>
+    <samp><h3>Web Development:</h3> </samp>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"
             alt="html5" width="40" height="40" /> </a>
@@ -58,7 +58,7 @@
          <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
             alt="canva" width="40" height="40" /> </a>
-          <samp><h3>Other Languages: </h3>  </samp>
+          <samp><h3>Other Languages:</h3>  </samp>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
             height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
@@ -74,7 +74,7 @@
                 src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40"
                 height="40" /> </a>
     </div><br>
-      <samp><h2>Hire Me: </h2> 
+      <samp><h2>Hire Me:</h2> 
     <h3> <a href='https://www.fiverr.com/zubairahmed_985'> ⭐ Fiverr </a> | 
     <a href='https://www.upwork.com/freelancers/~017703aaf147f1ce56'> ⭐ Upwork </a> | 
     <a href='https://www.freelancer.com/u/zubair985'> ⭐ Freelancer.com </a> 
