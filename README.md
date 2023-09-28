@@ -1,7 +1,7 @@
 <body>
    <h2 align="center"><samp></b>This is Zubair Ahmed ⚡</samp></h2>
     <samp><h3 align="center">A Full-Stack Developer with an excellent level of proficiency.</h3>
-   <p align="center"><a href='https://zubair-ahmed-portfolio-website.netlify.app/'>💎 My Portfolio Website </a></h3> </p></samp>
+   <h3 align="center"><a href='https://zubair-ahmed-portfolio-website.netlify.app/'>💎 My Portfolio Website </a></h3></samp>
     <div align="left">
     <samp><h2>Skills: </h2> </samp>
     <samp><h3>Web Development:</h3> </samp>
