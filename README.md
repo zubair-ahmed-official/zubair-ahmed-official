@@ -3,9 +3,7 @@
 <body>
     <h1 align="center">This is Zubair Ahmed ⚡</h1>
     <h3 align="center">A Full-Stack Developer with an excellent level of proficiency.</h3>
-    <p align="left">
-    </p>
-    <p align="left">
+    <div align="left">
     <h2>Skills:</h2>
     <h3>Web Development: </h3>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
@@ -77,7 +75,7 @@
                 alt="python" width="40" height="40" /> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img
                 src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40"
                 height="40" /> </a>
-    </p><br>
+    </div><br>
     <h2>Hire Me: </h2>
     <h3> <a href='https://www.fiverr.com/zubairahmed_985'> ⭐ Fiverr </a> | 
     <a href='https://www.upwork.com/freelancers/~017703aaf147f1ce56'> ⭐ Upwork </a> | 
