@@ -1,6 +1,6 @@
 <body>
    <h2 align="center"><samp></b>This is Zubair Ahmed ⚡</samp></h2>
-    <samp><h3 align="center" color="white">A Full-Stack Developer with an excellent level of proficiency.</h3> </samp>
+    <samp><h3 align="center">A Full-Stack Developer with an excellent level of proficiency.</h3> </samp>
     <div align="left">
     <samp><h2>Skills: </h2> </samp>
     <samp><h3>Web Development:</h3> </samp>
