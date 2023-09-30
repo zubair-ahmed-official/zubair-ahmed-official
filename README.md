@@ -94,9 +94,9 @@
                 height="40" /></a>
     </div><br><br>
       <h2>Hire Me:</h2> 
-    <h3> <a href='https://www.fiverr.com/zubairahmed_985'> ⭐ Fiverr </a> | 
-    <a href='https://www.upwork.com/freelancers/~017703aaf147f1ce56'> ⭐ Upwork </a> | 
-    <a href='https://www.freelancer.com/u/zubair985'> ⭐ Freelancer.com </a> 
+    ⭐<h3> <a href='https://www.fiverr.com/zubairahmed_985'> Fiverr </a> | 
+    ⭐<a href='https://www.upwork.com/freelancers/~017703aaf147f1ce56'> Upwork </a> | 
+    ⭐<a href='https://www.freelancer.com/u/zubair985'> Freelancer.com </a> 
     </h3> 
    <p> <b>🎯 10% Discount for the Repeat Clients. </b></p> 
     <p><b>💯 Feel free to order a standard and professional website development. </b></p>
