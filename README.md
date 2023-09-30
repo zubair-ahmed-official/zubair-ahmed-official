@@ -2,7 +2,7 @@
   <p align="center"><code>A Full-Stack Developer with an excellent level of proficiency</code></p>
    <p align="center"><a href='https://zubair-ahmed-portfolio-website.netlify.app/'><b>My Portfolio Website 💎</b></a></code></p>
     <div align="left">
-    <h2>Skills:</h2> 
+    <h2><samp>Skills:</samp></h2> 
     <code>Web Development:</code> <br><br>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"
@@ -93,7 +93,7 @@
                 src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40"
                 height="40" /></a>
     </div><br><br>
-      <h2>Hire Me:</h2> 
+      <h2><samp>Hire Me:</samp></h2> 
     <h3>
     ⭐ <a href='https://www.fiverr.com/zubairahmed_985'>Fiverr</a> | 
     ⭐ <a href='https://www.upwork.com/freelancers/~017703aaf147f1ce56'>Upwork</a> | 
@@ -101,7 +101,7 @@
     </h3> 
    <p> <b>🎯 10% Discount for the Repeat Clients. </b></p> 
     <p><b>💯 Feel free to order a standard and professional website development. </b></p>
-    <h2> Contact Me:</h2>
+    <h2> <samp>Contact Me:</samp></h2>
     <p><b>📧 Email: zubair.ahmed03261@gmail.com, z.ahmed.web.dev@gmail.com</b></p> 
     <p><b>📞 Phone: +8801867855558 </b></p>
     <br>
