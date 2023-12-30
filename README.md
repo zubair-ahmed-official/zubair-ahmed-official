@@ -64,6 +64,12 @@
         rel="noreferrer"> &nbsp; <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
             alt="oracle" width="40" height="40" /></a> <br><br>
+      <code>Content Management Systems (CMS):</code><br><br>
+      <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img
+            src="https://icongr.am/devicon/wordpress-plain-wordmark.svg?color=dfd8d8"
+            alt="wordpress" width="40" height="40" /></a> <a href="https://www.wix.com/" target="_blank" rel="noreferrer"> <img
+            src="https://static-00.iconduck.com/assets.00/wix-icon-2048x2048-petxyljo.png"
+            alt="wix" width="40" height="40" /></a><br><br>
         <code>Graphics Skills:</code><br><br><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /></a><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img
             src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
@@ -72,7 +78,7 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
             alt="photoshop" width="40" height="40" /></a>
        <a href="https://www.adobe.com/products/xd.html" target="_blank"
-            rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40"
+            rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" alt="xd" width="40"
                 height="40" /></a> 
          <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
