@@ -114,7 +114,7 @@
     <p><b>📧 Email: zubair.ahmed03261@gmail.com, z.ahmed.web.dev@gmail.com</b></p> 
     <p><b>📞 Phone: +8801867855558 </b></p>
     <br>
-       <a href='https://www.linkedin.com/in/zubairahmedweb'><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"
+       <a href='https://www.linkedin.com/in/zubairahmedofficial'><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"
 alt="nodejs" width="40" height="40" /></a><a href='https://www.facebook.com/zubair.ahmed.web'><img src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png"
             alt="facebook" width="70" height="45" /></a><a href='https://www.instagram.com/zubair.ahmed.official/'><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/800px-Instagram-Icon.png"
             alt="instagram" width="40" height="40" /></a>
