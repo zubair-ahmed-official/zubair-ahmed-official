@@ -102,14 +102,6 @@
                 src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40"
                 height="40" /></a>
     </div>
-      <h2><samp>Hire Me:</samp></h2> 
-    <h3>
-    ⭐ <a href='https://www.fiverr.com/zubairahmed_985'>Fiverr</a> | 
-    ⭐ <a href='https://www.upwork.com/freelancers/~017703aaf147f1ce56'>Upwork</a> | 
-    ⭐ <a href='https://www.freelancer.com/u/zubair985'>Freelancer.com</a> 
-    </h3> 
-   <p> <b>🎯 10% Discount for the Repeat Clients. </b></p> 
-    <p><b>💯 Feel free to order a standard and professional website development. </b></p>
     <h2> <samp>Contact Me:</samp></h2>
     <p><b>📧 Email: zubair.ahmed03261@gmail.com, z.ahmed.web.dev@gmail.com</b></p> 
     <p><b>📞 Phone: +8801867855558 </b></p>
