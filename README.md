@@ -75,10 +75,10 @@
             src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
             width="40" height="40" /></a>
        <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"
             alt="photoshop" width="40" height="40" /></a>
        <a href="https://www.adobe.com/products/xd.html" target="_blank"
-            rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" alt="xd" width="40"
+            rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" alt="xd" width="40"
                 height="40" /></a> 
          <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
@@ -104,7 +104,7 @@
     </div>
     <h2> <samp>Contact Me:</samp></h2>
     <p><b>📧 Email: zubair.ahmed03261@gmail.com, z.ahmed.web.dev@gmail.com</b></p> 
-    <p><b>📞 Phone: +8801867855558 </b></p>
+    <p><b>📞 Phone: +61405648845 </b></p>
     <br>
        <a href='https://www.linkedin.com/in/zubairahmedofficial'><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png"
 alt="nodejs" width="40" height="40" /></a><a href='https://www.facebook.com/zubair.ahmed.web'><img src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png"
