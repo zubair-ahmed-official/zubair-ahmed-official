@@ -68,7 +68,7 @@
       <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img
             src="https://icongr.am/devicon/wordpress-plain-wordmark.svg?color=dfd8d8"
             alt="wordpress" width="40" height="40" /></a> <a href="https://www.wix.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.whoisaccessible.com/wp-content/uploads/2022/04/Wix-1024x576.png"
+            src="https://static.wixstatic.com/media/953634_1ca3528eb7d74ddf8748a2f3ff7564de~mv2.png/v1/fit/w_500,h_500,q_90/file.png"
             alt="wix" width="40" height="40" /></a><br><br>
         <code>Graphics Skills:</code><br><br><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /></a><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img
