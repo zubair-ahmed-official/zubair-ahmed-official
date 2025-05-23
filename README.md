@@ -52,9 +52,7 @@
        <a href="https://vercel.com/" target="_blank"
             rel="noreferrer"> <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="vercel"
             rel="vercel" width="40" height="40" ></a> 
-             <a href="https://www.netlify.com/" target="_blank"
-            rel="noreferrer"> <img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" alt="netlify"
-                width="40" height="40" /></a> <br><br>
+              <br><br>
           <code>Database Management Systems:</code><br><br>
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
