@@ -61,13 +61,26 @@
             alt="mysql" width="40" height="40" /></a> <a href="https://www.oracle.com/" target="_blank"
         rel="noreferrer"> &nbsp; <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-            alt="oracle" width="40" height="40" /></a> <br><br>
+            alt="oracle" width="40" height="40" /></a>
+      <a href="https://www.oracle.com/au/database/technologies/appdev/plsql.html" target="_blank"
+        rel="noreferrer"> &nbsp; <img
+            src="https://willdom.com/wp-content/uploads/2024/01/pl-sql-logo.png"
+            alt="pl/sql" width="40" height="30" /></a><br><br>
       <code>Content Management Systems (CMS):</code><br><br>
       <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img
             src="https://icongr.am/devicon/wordpress-plain-wordmark.svg?color=dfd8d8"
             alt="wordpress" width="40" height="40" /></a> <a href="https://www.wix.com/" target="_blank" rel="noreferrer"> <img
             src="https://static.wixstatic.com/media/953634_1ca3528eb7d74ddf8748a2f3ff7564de~mv2.png/v1/fit/w_500,h_500,q_90/file.png"
             alt="wix" width="40" height="40" /></a><br><br>
+      <code>Mobile App Development:</code><br><br>
+      <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXk1KazwxBr0WhH8JrlzaSOnmuGkX0wRdrTA&s"
+            alt="kotlin" width="40" height="40" /></a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img
+            src="https://cdn-icons-png.flaticon.com/512/5968/5968371.png"
+            alt="wix" width="40" height="40" /></a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/240px-Dart-logo-icon.svg.png" alt="dart" width="40" height="40" /></a>
+      <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/1200px-Android_Studio_icon_%282023%29.svg.png" alt="android-studio" width="40" height="40" /></a><br><br>
         <code>Graphics Skills:</code><br><br><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /></a><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img
             src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
