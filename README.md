@@ -159,6 +159,6 @@
   <img src="https://komarev.com/ghpvc/?username=zubair-ahmed-official&label=Profile+Views&color=blue&style=flat" />
 </p>
 
-⭐ *"Turning ideas into real-world solutions."*
+<p align="center">⭐ <i>Turning ideas into real-world solutions.</i></p>
 
 </div>
